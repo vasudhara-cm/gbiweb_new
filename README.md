@@ -1,2 +1,2 @@
 # gbiweb_new
-Its about GBI all modules.Web application 
+Its about GBI all modules.Web application.Using Laravel
